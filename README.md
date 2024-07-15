@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **632202_IMPULSO_MULTICANAL_PRODUCTOS_ALIMENTICIOS**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/632202_IMPULSO_MULTICANAL_PRODUCTOS_ALIMENTICIOS/](https://ecored-sena.github.io/632202_IMPULSO_MULTICANAL_PRODUCTOS_ALIMENTICIOS/)
 
 #
